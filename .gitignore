@@ -1,0 +1,24 @@
+
+npm-debug.log
+yarn-error.log
+.github
+node_modules/
+yarn.lock
+coverage/
+.idea/
+run/
+.DS_Store
+*.sw*
+*.un~
+typings/
+.nyc_output/
+logs/esData/
+logs/alinode/
+logs/server/
+home/logs
+.vscode/
+app/public/courseList.json
+
+# umi
+.umi
+dist
