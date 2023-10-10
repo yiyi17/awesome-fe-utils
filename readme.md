@@ -22,3 +22,7 @@
 
 ### 拖拽类
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
+
+### diff
+
+- [react-diff-view](https://github.com/otakustay/react-diff-view)
