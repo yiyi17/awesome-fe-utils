@@ -18,8 +18,6 @@
 
 ## 前端常见效果库
 
-<!-- <script src="./ui-components.md"> -->
-
 ### 拖拽类
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
 
@@ -52,3 +50,11 @@
 [monaco-editor](https://microsoft.github.io/monaco-editor/)
 
 
+### 图表类
+
+- [火焰图](https://github.com/spiermar/d3-flame-graph)
+- [echarts](https://echarts.apache.org/zh/index.html)
+- [多维可视分析表格](https://s2.antv.vision/zh/)
+- [图分析应用组件](https://g6.antv.vision/zh)
+- [图编辑引擎](https://x6.antv.vision/zh/)
+- [地理图表](https://l7.antv.vision/zh)
