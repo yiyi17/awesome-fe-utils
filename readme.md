@@ -1,4 +1,4 @@
-# fe-utils
+# awesome-fe-utils
 
 对常见的库做一个集合
 
