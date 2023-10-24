@@ -2,6 +2,9 @@
 
 对常见的库做一个集合
 
+## 最新的API
+[finished-proposals](https://github.com/tc39/proposals/blob/main/finished-proposals.md)
+
 ## 前端框架
 
 - [Vue](https://cn.vuejs.org/guide/introduction.html)
