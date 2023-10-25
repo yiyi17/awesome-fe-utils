@@ -62,3 +62,8 @@
 - [图分析应用组件](https://g6.antv.vision/zh)
 - [图编辑引擎](https://x6.antv.vision/zh/)
 - [地理图表](https://l7.antv.vision/zh)
+
+## 常用工具
+- [webPageTest](https://www.webpagetest.org/)
+- [SpeedCurve](https://www.speedcurve.com/)
+- [web.dev](https://web.dev/)
