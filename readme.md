@@ -23,7 +23,8 @@
 ## 前端常见效果库
 
 ### 常用工具库
-- [lodash](https://lodash.com/)
+- [lodash](https://github.com/lodash/lodash)
+
 ### 拖拽类
 - [react-grid-layout](https://github.com/react-grid-layout/react-grid-layout)
 
