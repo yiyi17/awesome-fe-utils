@@ -18,3 +18,4 @@ nodejs 常用集合
 
 ## v8
 - [v8docs](https://v8docs.nodesource.com/)
+- [v8.dev](https://v8.dev/)
