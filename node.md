@@ -15,3 +15,6 @@ nodejs 常用集合
 - [awesome-nodejs](https://github.com/sindresorhus/awesome-nodejs)
 
 - [node_modules](https://github.com/node-modules)
+
+## v8
+- [v8docs](https://v8docs.nodesource.com/)
