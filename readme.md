@@ -69,6 +69,9 @@
 - [图编辑引擎](https://x6.antv.vision/zh/)
 - [地理图表](https://l7.antv.vision/zh)
 
+## 文件转换
+- [word 转换](https://www.npmjs.com/package/mammoth?activeTab=readme)
+
 ## 常用工具
 
 - [webPageTest](https://www.webpagetest.org/)
