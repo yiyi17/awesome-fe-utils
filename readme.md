@@ -60,6 +60,7 @@
 
 * [monaco-editor](https://microsoft.github.io/monaco-editor/)
 * [codemirror](https://codemirror.net/)
+* [vscode](https://vscode.dev/github)
 * [yjs](https://github.com/yjs/yjs)
 
 ### 图表类
