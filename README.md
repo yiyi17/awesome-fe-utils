@@ -80,6 +80,7 @@
 - [webPageTest](https://www.webpagetest.org/)
 - [SpeedCurve](https://www.speedcurve.com/)
 - [web.dev](https://web.dev/)
+- [free-for.dev](https://free-for.dev/#/)
 
 ## 协议
 * [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
