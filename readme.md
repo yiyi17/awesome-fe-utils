@@ -58,7 +58,9 @@
 
 #### 线上预览
 
-[monaco-editor](https://microsoft.github.io/monaco-editor/)
+* [monaco-editor](https://microsoft.github.io/monaco-editor/)
+* [codemirror](https://codemirror.net/)
+* [yjs](https://github.com/yjs/yjs)
 
 ### 图表类
 
@@ -78,6 +80,10 @@
 - [SpeedCurve](https://www.speedcurve.com/)
 - [web.dev](https://web.dev/)
 
+## 协议
+* [CRDT](https://en.wikipedia.org/wiki/Conflict-free_replicated_data_type)
+
 ## 更多
 
 - [nodejs](./node.md)
+- [AI](./AI.md)
