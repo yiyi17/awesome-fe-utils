@@ -73,7 +73,8 @@
 - [地理图表](https://l7.antv.vision/zh)
 
 ## 文件转换
-- [word 转换](https://www.npmjs.com/package/mammoth?activeTab=readme)
+- [word 转换 HTML](https://www.npmjs.com/package/mammoth?activeTab=readme)
+- [压缩](https://www.npmjs.com/package/lz-string)
 
 ## 常用工具
 
